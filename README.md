@@ -9,9 +9,9 @@
 │   ├── processed_enriched_2 # enrichment attemp 2
 │   └── processed_enriched_3 # enrichment attemp 3
 ├── generate_silver_corpus.py # The file to generate silver corpus
-├── raw
+├── raw # raw texts, crawled from BaoMoi
 ├── README.md
 ├── Report.pdf
-├── result
+├── result # the data obtained after predicting using FourIE model
 ```
 
