@@ -1,0 +1,6 @@
+__pycache__/
+vncorenlp/
+test.json
+test.txt
+.ruff_cache/
+test.ipynb
