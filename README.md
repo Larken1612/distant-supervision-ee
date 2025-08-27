@@ -1,8 +1,10 @@
 # Overview
 
 - Original BKEE data can be found at https://github.com/nhungnt7/BKEE
+- The model used for predicting data: https://arxiv.org/abs/2103.09330
 
 ```
+├── assets
 ├── final_data # processed data
 │   ├── processed # processed from original to match the code
 │   ├── processed_enriched # enrichment attemp 1
@@ -13,5 +15,7 @@
 ├── README.md
 ├── Report.pdf
 ├── result # the data obtained after predicting using FourIE model
+├── schema_augment.py # schema augmentation code
+├── trend_detection.py # trend detection code
 ```
 
